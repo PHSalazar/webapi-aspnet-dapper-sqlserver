@@ -35,3 +35,6 @@ Thumbs.db
 # Other
 *.bak
 *.swp
+
+# Arquivos de ambiente 
+appsettings.Development.json
