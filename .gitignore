@@ -1,0 +1,37 @@
+﻿# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.csproj.user
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Secrets and sensitive config
+appsettings.Development.json
+secrets.json
+
+# IDE and Editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln.docstates
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Other
+*.bak
+*.swp
